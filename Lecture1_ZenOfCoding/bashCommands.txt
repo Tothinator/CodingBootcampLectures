@@ -1,0 +1,11 @@
+cd: Change Directory
+touch file_name: create a file_name
+mkdir directory_name: makes a directory named directory_name (can make multiple if separated by spaces)
+cd .: change to current directory
+cd ..: changes to parent directory
+cd ~: changes to home directory
+cd -: takes you to your previous directory
+rm file_name: removes file named
+rm -r directory_name: removes directory_name and everything in it
+explorer: opens explorer
+pwd: print working directory 
